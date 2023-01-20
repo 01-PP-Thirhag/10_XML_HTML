@@ -1,0 +1,22 @@
+<!--Firma Holdenbrook-->
+<Holdenbrook>
+    <Abteilung>
+        <Buchhaltung>
+            <Mitarbeiter>
+                <Lehmann></Lehmann>    
+            </Mitarbeiter>
+        </Buchhaltung>
+        <Produktion>
+            <Mitarbeiter>
+                <Breitner></Breitner> 
+                <Paul></Paul> 
+                <Degen></Degen>    
+            </Mitarbeiter>   
+        <Vertrieb>
+            <Mitarbeiter>
+                <Schulz></Schulz> 
+                <Meier></Meier>   
+            </Mitarbeiter>
+        </Vertrieb>
+    </Abteilung>
+</Holdenbrook>
